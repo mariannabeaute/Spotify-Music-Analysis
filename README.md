@@ -3,7 +3,7 @@ Analysis of different audio attributes for Drake, Britney Spears, and Led Zeppel
 
 The investigative goal of this project was to determine the audio features that distiguish these three artists from one another, create a model that could predict eh artist based on the audio features as well as determine the importance each feature has on the popularity of a song.
 
-<h2>Dataset:<h2>
+**Dataset:**
 
 The data was obtained from Kaggle. It includes details such as the release date, song name, artists name, popularity, danceability, instrumentalness, energy, loudness and key. 
 
