@@ -29,7 +29,7 @@ In contrast, Led Zeppelin’s tracks are marked by high energy, greater instrume
 
 Overall, the values for Britney are more consistent or concentrated around a particular range, whereas those for Drake and Zeppelin are more varied. This could mean that her songs tend to have similar audio features.
 
-Danceability plays a big role in a song's popularity, meaning tracks that are easier to dance to are more likely to succeed. Artists and producers might want to focus on creating more danceable music to boost their chances of of achieving popularity and perhaps hitting the charts.
+Danceability plays a big role in a song's popularity, meaning tracks that are easier to dance to are more likely to succeed. Artists and producers might want to focus on creating more danceable music to boost their chances of achieving popularity and perhaps hitting the charts.
 
 
 **Note:** These results are specific to the dataset and the model used. Different datasets or models with other artists and songs might yield different results, so these findings should be considered in context.
