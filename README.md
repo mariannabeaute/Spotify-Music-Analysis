@@ -1,11 +1,11 @@
-# Spotify-Music-Analysis
+# **Spotify-Music-Analysis**
 Analysis of different audio attributes for Drake, Britney Spears, and Led Zeppelin
 
 The investigative goal of this project was to determine the audio features that distiguish these three artists from one another, create a model that could predict eh artist based on the audio features as well as determine the importance each feature has on the popularity of a song.
 
-Dataset:
+**Dataset**:
 
-The data was obtained from Kaggle. It includes details such as the release date, song name, artists name, popularity, danceability, instrumentality, loudness and key. 
+The data was obtained from Kaggle. It includes details such as the release date, song name, artists name, popularity, danceability, instrumentalness, energy, loudness and key. 
 
 I filtered the data to include songs from Drake, Britney Spears or Led Zeppelin because they represent different genres and eras, and each of these artists dominated their respective periods and genres.
 
@@ -15,11 +15,11 @@ I filtered the data to include songs from Drake, Britney Spears or Led Zeppelin 
 
 *Led Zeppelin: Hard Rock, with elements of blues, folk, and heavy metal. Led Zeppelin was active primarily in the late 1960s and 1970s, with their career spanning from 1968 to 1980.
 
-Tools and Technologies:
+**Tools and Technologies:**
 
-Python was used for data analysis. Libraries such as pandas, seaborn, numpy, matplotlib, sklearn.linear_model, sklearn.ensemble and sklearn.model_selection were utilized for data manipulation, analysis, and visualization, and machine larning.
+Python was used for data analysis. Libraries such as pandas, seaborn, numpy, matplotlib, sklearn.linear_model, sklearn.ensemble, and sklearn.model_selection were utilized for data manipulation, analysis, and visualization, and machine larning.
 
-Findings:
+**Findings:**
 
 Drake’s music is characterized with high danceability, key complexity, and loudness, along with greater popularity and speechiness.
 
@@ -32,4 +32,4 @@ Overall, the values for Britney are more consistent or concentrated around a par
 Danceability plays a big role in a song's popularity, meaning tracks that are easier to dance to are more likely to succeed. Artists and producers might want to focus on creating more danceable music to boost their chances of of achieving popularity and perhaps hitting the charts.
 
 
-Note: The results are specific to the dataset and the model used. Different datasets or models with other artists and songs might yield different results, so these findings should be considered in context.
+**Note:** These results are specific to the dataset and the model used. Different datasets or models with other artists and songs might yield different results, so these findings should be considered in context.
